@@ -12,14 +12,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-book-website.github.io',
+  url: 'https://hackathon-1.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub Pages, this is usually '/<project-name>/'
-  baseUrl: '/physical-ai-book',
+  // For Vercel deployment, this is usually '/'
+  baseUrl: '/',
 
-  // GitHub pages deployment config.
-  organizationName: 'your-organization',
-  projectName: 'physical-ai-book',
+  // Vercel deployment config.
+  organizationName: 'murtazahasnain12',
+  projectName: 'Hackathon-1',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/your-username/physical-ai-book/tree/main/',
+            'https://github.com/murtazahasnain12/Hackathon-1/tree/main/',
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config = {
             label: 'Book',
           },
           {
-            href: 'https://github.com/your-username/physical-ai-book',
+            href: 'https://github.com/murtazahasnain12/Hackathon-1',
             label: 'GitHub',
             position: 'right',
           },
@@ -114,7 +114,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-username/physical-ai-book',
+                href: 'https://github.com/murtazahasnain12/Hackathon-1',
               },
             ],
           },
