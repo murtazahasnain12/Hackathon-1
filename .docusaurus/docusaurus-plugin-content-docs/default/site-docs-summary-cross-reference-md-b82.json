@@ -1,0 +1,20 @@
+{
+  "id": "summary-cross-reference",
+  "title": "Physical AI & Humanoid Robotics: Complete Summary and Cross-Reference",
+  "description": "Book Overview",
+  "source": "@site/docs/summary-cross-reference.md",
+  "sourceDirName": ".",
+  "slug": "/summary-cross-reference",
+  "permalink": "/physical-ai-book/docs/summary-cross-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/summary-cross-reference.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigation Validation Checklist",
+    "permalink": "/physical-ai-book/docs/navigation-checklist"
+  }
+}

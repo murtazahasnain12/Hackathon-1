@@ -1,0 +1,24 @@
+{
+  "id": "architecture/layered-approach",
+  "title": "Layered Approach Documentation for Physical AI & Humanoid Robotics",
+  "description": "Introduction to Layered Architecture",
+  "source": "@site/docs/architecture/layered-approach.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/layered-approach",
+  "permalink": "/physical-ai-book/docs/architecture/layered-approach",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/architecture/layered-approach.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment Architecture for Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-book/docs/architecture/deployment"
+  },
+  "next": {
+    "title": "Architecture Documentation - References",
+    "permalink": "/physical-ai-book/docs/architecture/references"
+  }
+}

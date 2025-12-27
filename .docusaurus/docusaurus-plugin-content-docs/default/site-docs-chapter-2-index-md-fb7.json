@@ -1,0 +1,27 @@
+{
+  "id": "chapter-2/index",
+  "title": "Chapter 2: ROS 2 Foundations for Humanoids",
+  "description": "This chapter introduces the Robot Operating System (ROS 2) as the nervous system for humanoid robotics applications, exploring how ROS 2 provides the infrastructure for implementing the layered architecture discussed in Chapter 1.",
+  "source": "@site/docs/chapter-2/index.md",
+  "sourceDirName": "chapter-2",
+  "slug": "/chapter-2/",
+  "permalink": "/physical-ai-book/docs/chapter-2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-2/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: ROS 2 Foundations for Humanoids",
+    "permalink": "/physical-ai-book/docs/category/chapter-2-ros-2-foundations-for-humanoids"
+  },
+  "next": {
+    "title": "Humanoid-Specific ROS Implementation",
+    "permalink": "/physical-ai-book/docs/chapter-2/humanoid-ros"
+  }
+}

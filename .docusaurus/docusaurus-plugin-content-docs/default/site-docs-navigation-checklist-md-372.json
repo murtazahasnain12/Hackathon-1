@@ -1,0 +1,24 @@
+{
+  "id": "navigation-checklist",
+  "title": "Navigation Validation Checklist",
+  "description": "This document validates that all navigation elements work correctly across the Physical AI & Humanoid Robotics book.",
+  "source": "@site/docs/navigation-checklist.md",
+  "sourceDirName": ".",
+  "slug": "/navigation-checklist",
+  "permalink": "/physical-ai-book/docs/navigation-checklist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/navigation-checklist.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-book/docs/"
+  },
+  "next": {
+    "title": "Physical AI & Humanoid Robotics: Complete Summary and Cross-Reference",
+    "permalink": "/physical-ai-book/docs/summary-cross-reference"
+  }
+}

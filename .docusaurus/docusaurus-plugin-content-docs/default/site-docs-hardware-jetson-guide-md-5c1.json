@@ -1,0 +1,24 @@
+{
+  "id": "hardware/jetson-guide",
+  "title": "NVIDIA Jetson Deployment Guide for Physical AI & Humanoid Robotics",
+  "description": "Introduction",
+  "source": "@site/docs/hardware/jetson-guide.md",
+  "sourceDirName": "hardware",
+  "slug": "/hardware/jetson-guide",
+  "permalink": "/physical-ai-book/docs/hardware/jetson-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/hardware/jetson-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardware Configuration Guide for Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-book/docs/hardware/configurations"
+  },
+  "next": {
+    "title": "Laboratory Infrastructure Setup for Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-book/docs/hardware/lab-setup"
+  }
+}

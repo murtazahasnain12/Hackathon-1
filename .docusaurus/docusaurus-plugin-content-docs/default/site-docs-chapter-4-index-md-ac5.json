@@ -1,0 +1,27 @@
+{
+  "id": "chapter-4/index",
+  "title": "Chapter 4: AI Perception & Learning with NVIDIA Isaac",
+  "description": "This chapter explores AI perception and learning techniques using NVIDIA Isaac, focusing on how to implement intelligent perception systems for humanoid robots using GPU-accelerated AI.",
+  "source": "@site/docs/chapter-4/index.md",
+  "sourceDirName": "chapter-4",
+  "slug": "/chapter-4/",
+  "permalink": "/physical-ai-book/docs/chapter-4/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-4/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: AI Perception & Learning with NVIDIA Isaac",
+    "permalink": "/physical-ai-book/docs/category/chapter-4-ai-perception--learning-with-nvidia-isaac"
+  },
+  "next": {
+    "title": "AI Perception Fundamentals",
+    "permalink": "/physical-ai-book/docs/chapter-4/ai-perception"
+  }
+}

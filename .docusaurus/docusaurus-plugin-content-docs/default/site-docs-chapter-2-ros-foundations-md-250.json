@@ -1,0 +1,24 @@
+{
+  "id": "chapter-2/ros-foundations",
+  "title": "ROS 2 Fundamentals",
+  "description": "Introduction to ROS 2",
+  "source": "@site/docs/chapter-2/ros-foundations.md",
+  "sourceDirName": "chapter-2",
+  "slug": "/chapter-2/ros-foundations",
+  "permalink": "/physical-ai-book/docs/chapter-2/ros-foundations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-2/ros-foundations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "References - Chapter 2: ROS 2 Foundations for Humanoids",
+    "permalink": "/physical-ai-book/docs/chapter-2/references"
+  },
+  "next": {
+    "title": "Chapter 3: Digital Twins & Physics Simulation",
+    "permalink": "/physical-ai-book/docs/category/chapter-3-digital-twins--physics-simulation"
+  }
+}

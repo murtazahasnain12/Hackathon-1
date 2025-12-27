@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="700"
+   viewBox="0 0 1000 700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-14)"
+   sodipodi:docname="simulation-arch.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6"
+     inkscape:cx="500"
+     inkscape:cy="350"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Simulation Architecture for Digital Twins</dc:title>
+        <dc:description>Diagram showing the architecture of simulation environments for digital twins in robotics</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <!-- Background -->
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect879"
+       width="1000"
+       height="700"
+       x="0"
+       y="0" />
+
+    <!-- Title -->
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="300"
+       y="40"
+       id="text815"><tspan
+         sodipodi:role="line"
+         id="tspan813"
+         x="300"
+         y="40"
+         style="font-weight:bold;font-size:24px">Simulation Architecture for Digital Twins</tspan></text>
+
+    <!-- Physical Robot -->
+    <rect
+       style="fill:#e3f2fd;fill-opacity:1;stroke:#1976d2;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect817"
+       width="200"
+       height="120"
+       x="50"
+       y="100"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="70"
+       y="130"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="70"
+         y="130"
+         style="font-weight:bold;font-size:18px">Physical Robot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="70"
+       y="160"
+       id="text825"><tspan
+         sodipodi:role="line"
+         id="tspan823"
+         x="70"
+         y="160">Humanoid Platform</tspan><tspan
+         sodipodi:role="line"
+         x="70"
+         y="177.5"
+         id="tspan827">Sensors & Actuators</tspan><tspan
+         sodipodi:role="line"
+         x="70"
+         y="195"
+         id="tspan829">Real-time Control</tspan></text>
+
+    <!-- Digital Twin -->
+    <rect
+       style="fill:#e8f5e9;fill-opacity:1;stroke:#388e3c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect831"
+       width="200"
+       height="120"
+       x="400"
+       y="100"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="420"
+       y="130"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="420"
+         y="130"
+         style="font-weight:bold;font-size:18px">Digital Twin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="420"
+       y="160"
+       id="text839"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="420"
+         y="160">Virtual Model</tspan><tspan
+         sodipodi:role="line"
+         x="420"
+         y="177.5"
+         id="tspan841">Physics Simulation</tspan><tspan
+         sodipodi:role="line"
+         x="420"
+         y="195"
+         id="tspan843">Real-time Sync</tspan></text>
+
+    <!-- Simulation Environment -->
+    <rect
+       style="fill:#fff3e0;fill-opacity:1;stroke:#f57c00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect845"
+       width="200"
+       height="120"
+       x="750"
+       y="100"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="770"
+       y="130"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="770"
+         y="130"
+         style="font-weight:bold;font-size:18px">Simulation</tspan><tspan
+         sodipodi:role="line"
+         x="770"
+         y="152.5"
+         id="tspan851">Environment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="770"
+       y="180"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="770"
+         y="180">Gazebo/Unity</tspan><tspan
+         sodipodi:role="line"
+         x="770"
+         y="197.5"
+         id="tspan857">Physics Engine</tspan><tspan
+         sodipodi:role="line"
+         x="770"
+         y="215"
+         id="tspan859">Sensor Models</tspan></text>
+
+    <!-- Data Flow Arrows -->
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 250,160 L 400,160"
+       id="path861"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="280"
+       y="140"
+       id="text865"><tspan
+         sodipodi:role="line"
+         id="tspan863"
+         x="280"
+         y="140">Real-time</tspan><tspan
+         sodipodi:role="line"
+         x="280"
+         y="157.5"
+         id="tspan867">Data</tspan></text>
+
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 600,160 L 750,160"
+       id="path869"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="630"
+       y="140"
+       id="text873"><tspan
+         sodipodi:role="line"
+         id="tspan871"
+         x="630"
+         y="140">Simulation</tspan><tspan
+         sodipodi:role="line"
+         x="630"
+         y="157.5"
+         id="tspan875">Data</tspan></text>
+
+    <!-- ROS 2 Layer -->
+    <rect
+       style="fill:#fce4ec;fill-opacity:1;stroke:#c2185b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect877"
+       width="800"
+       height="80"
+       x="100"
+       y="280"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="400"
+       y="310"
+       id="text881"><tspan
+         sodipodi:role="line"
+         id="tspan879"
+         x="400"
+         y="310"
+         style="font-weight:bold;font-size:18px">ROS 2 Communication Layer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="150"
+       y="340"
+       id="text885"><tspan
+         sodipodi:role="line"
+         id="tspan883"
+         x="150"
+         y="340">Topics | Services | Actions | TF | Parameters</tspan></text>
+
+    <!-- Arrow from Physical to ROS -->
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 150,220 L 150,280"
+       id="path887"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="100"
+       y="250"
+       id="text891"><tspan
+         sodipodi:role="line"
+         id="tspan889"
+         x="100"
+         y="250">Sensor</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="267.5"
+         id="tspan893">Data</tspan></text>
+
+    <!-- Arrow from Digital Twin to ROS -->
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 500,220 L 500,280"
+       id="path895"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="450"
+       y="250"
+       id="text899"><tspan
+         sodipodi:role="line"
+         id="tspan897"
+         x="450"
+         y="250">Simulated</tspan><tspan
+         sodipodi:role="line"
+         x="450"
+         y="267.5"
+         id="tspan899">Data</tspan></text>
+
+    <!-- Arrow from Simulation to ROS -->
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 850,220 L 850,280"
+       id="path901"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="800"
+       y="250"
+       id="text905"><tspan
+         sodipodi:role="line"
+         id="tspan903"
+         x="800"
+         y="250">Simulation</tspan><tspan
+         sodipodi:role="line"
+         x="800"
+         y="267.5"
+         id="tspan905">Output</tspan></text>
+
+    <!-- AI/ML Layer -->
+    <rect
+       style="fill:#f3e5f5;fill-opacity:1;stroke:#7b1fa2;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect907"
+       width="800"
+       height="80"
+       x="100"
+       y="400"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="400"
+       y="430"
+       id="text911"><tspan
+         sodipodi:role="line"
+         id="tspan909"
+         x="400"
+         y="430"
+         style="font-weight:bold;font-size:18px">AI/ML Training & Development Layer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="150"
+       y="460"
+       id="text915"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="150"
+         y="460">Reinforcement Learning | Imitation Learning | Domain Randomization</tspan></text>
+
+    <!-- Arrow from ROS to AI/ML -->
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 500,360 L 500,400"
+       id="path917"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+
+    <!-- Control Algorithms -->
+    <rect
+       style="fill:#e1f5fe;fill-opacity:1;stroke:#0277bd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect919"
+       width="200"
+       height="120"
+       x="50"
+       y="520"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="70"
+       y="550"
+       id="text923"><tspan
+         sodipodi:role="line"
+         id="tspan921"
+         x="70"
+         y="550"
+         style="font-weight:bold;font-size:18px">Control</tspan><tspan
+         sodipodi:role="line"
+         x="70"
+         y="572.5"
+         id="tspan925">Algorithms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="70"
+       y="600"
+       id="text929"><tspan
+         sodipodi:role="line"
+         id="tspan927"
+         x="70"
+         y="600">Balance Control</tspan><tspan
+         sodipodi:role="line"
+         x="70"
+         y="617.5"
+         id="tspan929">Locomotion</tspan><tspan
+         sodipodi:role="line"
+         x="70"
+         y="635"
+         id="tspan931">Manipulation</tspan></text>
+
+    <!-- Learning Algorithms -->
+    <rect
+       style="fill:#e8f5e9;fill-opacity:1;stroke:#388e3c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect933"
+       width="200"
+       height="120"
+       x="400"
+       y="520"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="420"
+       y="550"
+       id="text937"><tspan
+         sodipodi:role="line"
+         id="tspan935"
+         x="420"
+         y="550"
+         style="font-weight:bold;font-size:18px">Learning</tspan><tspan
+         sodipodi:role="line"
+         x="420"
+         y="572.5"
+         id="tspan937">Algorithms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="420"
+       y="600"
+       id="text941"><tspan
+         sodipodi:role="line"
+         id="tspan939"
+         x="420"
+         y="600">Reinforcement</tspan><tspan
+         sodipodi:role="line"
+         x="420"
+         y="617.5"
+         id="tspan941">Learning</tspan><tspan
+         sodipodi:role="line"
+         x="420"
+         y="635"
+         id="tspan943">Imitation</tspan></text>
+
+    <!-- Perception Algorithms -->
+    <rect
+       style="fill:#fff3e0;fill-opacity:1;stroke:#f57c00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect945"
+       width="200"
+       height="120"
+       x="750"
+       y="520"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="770"
+       y="550"
+       id="text949"><tspan
+         sodipodi:role="line"
+         id="tspan947"
+         x="770"
+         y="550"
+         style="font-weight:bold;font-size:18px">Perception</tspan><tspan
+         sodipodi:role="line"
+         x="770"
+         y="572.5"
+         id="tspan949">Algorithms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="770"
+       y="600"
+       id="text953"><tspan
+         sodipodi:role="line"
+         id="tspan951"
+         x="770"
+         y="600">Object Detection</tspan><tspan
+         sodipodi:role="line"
+         x="770"
+         y="617.5"
+         id="tspan953">SLAM</tspan><tspan
+         sodipodi:role="line"
+         x="770"
+         y="635"
+         id="tspan955">Tracking</tspan></text>
+
+    <!-- Arrows from AI/ML to algorithms -->
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 200,480 L 150,520"
+       id="path957"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 500,480 L 500,520"
+       id="path959"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#arrow)"
+       d="M 800,480 L 850,520"
+       id="path961"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+
+    <!-- Legend -->
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect963"
+       width="200"
+       height="120"
+       x="750"
+       y="40"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="760"
+       y="60"
+       id="text967"><tspan
+         sodipodi:role="line"
+         id="tspan965"
+         x="760"
+         y="60"
+         style="font-weight:bold">Legend</tspan><tspan
+         sodipodi:role="line"
+         x="760"
+         y="77.5"
+         id="tspan967">Physical: Blue</tspan><tspan
+         sodipodi:role="line"
+         x="760"
+         y="95"
+         id="tspan969">Digital Twin: Green</tspan><tspan
+         sodipodi:role="line"
+         x="760"
+         y="112.5"
+         id="tspan971">Simulation: Orange</tspan><tspan
+         sodipodi:role="line"
+         x="760"
+         y="130"
+         id="tspan973">ROS: Pink</tspan><tspan
+         sodipodi:role="line"
+         x="760"
+         y="147.5"
+         id="tspan975">AI/ML: Purple</tspan></text>
+
+    <defs>
+      <marker
+         inkscape:isstock="true"
+         style="overflow:visible"
+         id="arrow"
+         refX="0"
+         refY="0"
+         orient="auto"
+         inkscape:stockid="Arrow1Mend">
+        <path
+           transform="matrix(0.4,0,0,0.4,4,0)"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+           d="M 0,0 5,-5 -12.5,0 5,5 Z"
+           id="path977" />
+      </marker>
+    </defs>
+  </g>
+</svg>

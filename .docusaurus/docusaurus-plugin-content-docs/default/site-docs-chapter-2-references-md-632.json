@@ -1,0 +1,24 @@
+{
+  "id": "chapter-2/references",
+  "title": "References - Chapter 2: ROS 2 Foundations for Humanoids",
+  "description": "Academic Sources",
+  "source": "@site/docs/chapter-2/references.md",
+  "sourceDirName": "chapter-2",
+  "slug": "/chapter-2/references",
+  "permalink": "/physical-ai-book/docs/chapter-2/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-2/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Humanoid-Specific ROS Implementation",
+    "permalink": "/physical-ai-book/docs/chapter-2/humanoid-ros"
+  },
+  "next": {
+    "title": "ROS 2 Fundamentals",
+    "permalink": "/physical-ai-book/docs/chapter-2/ros-foundations"
+  }
+}

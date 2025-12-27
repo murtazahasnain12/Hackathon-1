@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introduction to Physical AI & Humanoid Robotics",
+  "description": "Welcome to the comprehensive guide on Physical AI and Humanoid Robotics. This book explores the intersection of artificial intelligence and physical systems, focusing on embodied intelligence and how digital AI models connect with real-world robotics.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/physical-ai-book/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 1: Introduction to Physical AI & Embodied Intelligence",
+    "permalink": "/physical-ai-book/docs/category/chapter-1-introduction-to-physical-ai--embodied-intelligence"
+  }
+}

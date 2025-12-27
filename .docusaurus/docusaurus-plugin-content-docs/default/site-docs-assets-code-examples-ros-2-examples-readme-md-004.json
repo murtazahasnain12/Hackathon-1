@@ -1,0 +1,24 @@
+{
+  "id": "assets/code-examples/ros2-examples/README",
+  "title": "ROS 2 Code Examples",
+  "description": "This directory contains example code for the ROS 2 Foundations chapter, demonstrating key concepts for humanoid robotics.",
+  "source": "@site/docs/assets/code-examples/ros2-examples/README.md",
+  "sourceDirName": "assets/code-examples/ros2-examples",
+  "slug": "/assets/code-examples/ros2-examples/",
+  "permalink": "/physical-ai-book/docs/assets/code-examples/ros2-examples/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/assets/code-examples/ros2-examples/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Code Examples",
+    "permalink": "/physical-ai-book/docs/assets/code-examples/isaac-examples/"
+  },
+  "next": {
+    "title": "Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-book/docs/"
+  }
+}

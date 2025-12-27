@@ -1,0 +1,141 @@
+# Book Content API Contract
+
+## Overview
+This contract defines the structure and access patterns for the Physical AI & Humanoid Robotics book content.
+
+## Endpoints
+
+### GET /api/chapters
+Retrieve list of all book chapters
+
+**Response:**
+```json
+{
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "title": "Introduction to Physical AI & Embodied Intelligence",
+      "description": "Foundational concepts of Physical AI and embodied intelligence",
+      "architecture_layer": "cognition",
+      "word_count": 5000,
+      "reading_time": "20 minutes",
+      "references_count": 15,
+      "learning_objectives": [
+        "Understand the difference between traditional AI and Physical AI",
+        "Explain the concept of embodied intelligence",
+        "Identify key challenges in Physical AI systems"
+      ]
+    }
+  ]
+}
+```
+
+### GET /api/chapters/{chapterId}
+Retrieve specific chapter content
+
+**Response:**
+```json
+{
+  "id": "chapter-1",
+  "title": "Introduction to Physical AI & Embodied Intelligence",
+  "content": "# Chapter 1: Introduction to Physical AI\n\nPhysical AI represents...",
+  "architecture_layer": "cognition",
+  "references": [
+    {
+      "id": "ref-001",
+      "title": "Physical Intelligence",
+      "authors": ["Author, A.A.", "Author, B.B."],
+      "year": 2023,
+      "type": "primary",
+      "citation": "Author, A.A., & Author, B.B. (2023). Physical Intelligence. Journal of AI Research."
+    }
+  ],
+  "prerequisites": ["Basic understanding of AI concepts", "Familiarity with robotics fundamentals"],
+  "learning_objectives": ["Understand the difference between traditional AI and Physical AI", "Explain the concept of embodied intelligence"],
+  "diagrams": [
+    {
+      "id": "arch-001",
+      "title": "Layered Architecture Overview",
+      "description": "Overview of Perception → Cognition → Planning → Control → Actuation layers",
+      "file_path": "/assets/diagrams/layered-architecture.svg"
+    }
+  ],
+  "code_examples": [
+    {
+      "id": "code-001",
+      "title": "Basic ROS 2 Node Example",
+      "language": "python",
+      "file_path": "/assets/code-examples/ros2-node.py"
+    }
+  ]
+}
+```
+
+### GET /api/references
+Retrieve all references used in the book
+
+**Response:**
+```json
+{
+  "references": [
+    {
+      "id": "ref-001",
+      "title": "Physical Intelligence",
+      "authors": ["Author, A.A.", "Author, B.B."],
+      "year": 2023,
+      "type": "primary",
+      "source": "Journal of AI Research",
+      "url": "https://example.com/paper",
+      "access_date": "2025-12-27",
+      "citation": "Author, A.A., & Author, B.B. (2023). Physical Intelligence. Journal of AI Research."
+    }
+  ],
+  "stats": {
+    "total_count": 150,
+    "primary_sources": 65,
+    "peer_reviewed": 45,
+    "primary_percentage": 43.3
+  }
+}
+```
+
+### GET /api/architecture/diagrams
+Retrieve all architecture diagrams
+
+**Response:**
+```json
+{
+  "diagrams": [
+    {
+      "id": "arch-001",
+      "title": "Layered Architecture Overview",
+      "description": "Overview of Perception → Cognition → Planning → Control → Actuation layers",
+      "layers": ["perception", "cognition", "planning", "control", "actuation"],
+      "components": ["ROS 2", "Gazebo", "NVIDIA Isaac", "VLA Stack"],
+      "file_path": "/assets/diagrams/layered-architecture.svg",
+      "chapter": "chapter-1"
+    }
+  ]
+}
+```
+
+## Error Responses
+
+All endpoints return standard error responses:
+
+```json
+{
+  "error": {
+    "code": "RESOURCE_NOT_FOUND",
+    "message": "The requested resource was not found",
+    "details": "Chapter with ID 'invalid-id' does not exist"
+  }
+}
+```
+
+## Standards Compliance
+
+- All content follows APA citation format
+- All text maintains Flesch-Kincaid grade 10-12 readability
+- All references are validated for academic quality
+- Architecture diagrams accurately represent the layered system

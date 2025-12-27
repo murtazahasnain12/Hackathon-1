@@ -1,0 +1,24 @@
+{
+  "id": "assets/code-examples/isaac-examples/README",
+  "title": "NVIDIA Isaac Code Examples",
+  "description": "This directory contains example code for the AI Perception & Learning with NVIDIA Isaac chapter, demonstrating key concepts for implementing AI perception systems using Isaac's GPU-accelerated tools.",
+  "source": "@site/docs/assets/code-examples/isaac-examples/README.md",
+  "sourceDirName": "assets/code-examples/isaac-examples",
+  "slug": "/assets/code-examples/isaac-examples/",
+  "permalink": "/physical-ai-book/docs/assets/code-examples/isaac-examples/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/assets/code-examples/isaac-examples/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardware Documentation - References",
+    "permalink": "/physical-ai-book/docs/hardware/references"
+  },
+  "next": {
+    "title": "ROS 2 Code Examples",
+    "permalink": "/physical-ai-book/docs/assets/code-examples/ros2-examples/"
+  }
+}

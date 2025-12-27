@@ -1,0 +1,24 @@
+{
+  "id": "chapter-1/physical-ai-intro",
+  "title": "Physical AI Fundamentals",
+  "description": "What is Physical AI?",
+  "source": "@site/docs/chapter-1/physical-ai-intro.md",
+  "sourceDirName": "chapter-1",
+  "slug": "/chapter-1/physical-ai-intro",
+  "permalink": "/physical-ai-book/docs/chapter-1/physical-ai-intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-1/physical-ai-intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Layered Architecture Overview",
+    "permalink": "/physical-ai-book/docs/chapter-1/layered-architecture"
+  },
+  "next": {
+    "title": "References - Chapter 1: Introduction to Physical AI & Embodied Intelligence",
+    "permalink": "/physical-ai-book/docs/chapter-1/references"
+  }
+}

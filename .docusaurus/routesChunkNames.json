@@ -1,0 +1,254 @@
+{
+  "/physical-ai-book/__docusaurus/debug-12f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/config-4d3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/content-a5b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    },
+    "__props": "__props---physical-ai-book-docusaurus-debug-content-85-e-5b0"
+  },
+  "/physical-ai-book/__docusaurus/debug/globalData-abe": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/metadata-587": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/registry-2ef": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/routes-1a5": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/docs-c66": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docsaba-a6d"
+    }
+  },
+  "/physical-ai-book/docs-45c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-book-docse-93-ee2"
+  },
+  "/physical-ai-book/docs-037": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical-ai-book/docs-0e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docsc-37-8a4"
+  },
+  "/physical-ai-book/docs/architecture/deployment-aea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-architecture-deployment-4-e-5-e3c"
+  },
+  "/physical-ai-book/docs/architecture/layered-approach-2c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-architecture-layered-approach-3-c-5-7a4"
+  },
+  "/physical-ai-book/docs/architecture/references-070": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-architecture-references-6-c-0-6b2"
+  },
+  "/physical-ai-book/docs/architecture/system-view-f58": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-architecture-system-view-935-062"
+  },
+  "/physical-ai-book/docs/architecture/tool-mapping-892": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-architecture-tool-mapping-7-e-0-de4"
+  },
+  "/physical-ai-book/docs/assets/code-examples/isaac-examples-efb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-assets-code-examples-isaac-examplese-3-e-366"
+  },
+  "/physical-ai-book/docs/assets/code-examples/ros2-examples-b80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-assets-code-examples-ros-2-examples-004-af4"
+  },
+  "/physical-ai-book/docs/category/architecture-5fb": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-book-docs-category-architecture-3-f-2-9a0"
+  },
+  "/physical-ai-book/docs/category/chapter-1-introduction-to-physical-ai--embodied-intelligence-ed6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-book-docs-category-chapter-1-introduction-to-physical-ai-embodied-intelligencec-51-cf7"
+  },
+  "/physical-ai-book/docs/category/chapter-2-ros-2-foundations-for-humanoids-711": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-book-docs-category-chapter-2-ros-2-foundations-for-humanoids-1-b-1-9aa"
+  },
+  "/physical-ai-book/docs/category/chapter-3-digital-twins--physics-simulation-4e0": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-book-docs-category-chapter-3-digital-twins-physics-simulationb-29-613"
+  },
+  "/physical-ai-book/docs/category/chapter-4-ai-perception--learning-with-nvidia-isaac-023": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-book-docs-category-chapter-4-ai-perception-learning-with-nvidia-isaac-54-f-4aa"
+  },
+  "/physical-ai-book/docs/category/chapter-5-vision-language-action-pipelines-c24": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-book-docs-category-chapter-5-vision-language-action-pipelinesbb-1-862"
+  },
+  "/physical-ai-book/docs/category/chapter-6-autonomous-humanoid-capstone-architecture-92f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-book-docs-category-chapter-6-autonomous-humanoid-capstone-architecture-009-fad"
+  },
+  "/physical-ai-book/docs/category/hardware--infrastructure-06d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-book-docs-category-hardware-infrastructurec-61-774"
+  },
+  "/physical-ai-book/docs/chapter-1-ba0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-13-d-5-0cb"
+  },
+  "/physical-ai-book/docs/chapter-1/layered-architecture-bc7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-1-layered-architecture-143-00b"
+  },
+  "/physical-ai-book/docs/chapter-1/physical-ai-intro-bf3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-1-physical-ai-introa-4-c-b78"
+  },
+  "/physical-ai-book/docs/chapter-1/references-3e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-1-references-422-b3f"
+  },
+  "/physical-ai-book/docs/chapter-2-466": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-2-fb-7-caa"
+  },
+  "/physical-ai-book/docs/chapter-2/humanoid-ros-fad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-2-humanoid-ros-198-5ce"
+  },
+  "/physical-ai-book/docs/chapter-2/references-591": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-2-references-632-5d7"
+  },
+  "/physical-ai-book/docs/chapter-2/ros-foundations-44a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-2-ros-foundations-250-903"
+  },
+  "/physical-ai-book/docs/chapter-3-960": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-3-bd-4-b95"
+  },
+  "/physical-ai-book/docs/chapter-3/digital-twins-262": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-3-digital-twins-811-b7c"
+  },
+  "/physical-ai-book/docs/chapter-3/physics-simulation-fad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-3-physics-simulation-291-f04"
+  },
+  "/physical-ai-book/docs/chapter-3/references-fa6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-3-referencescc-8-6e2"
+  },
+  "/physical-ai-book/docs/chapter-4-458": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-4-ac-5-04d"
+  },
+  "/physical-ai-book/docs/chapter-4/ai-perception-b91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-4-ai-perception-839-f24"
+  },
+  "/physical-ai-book/docs/chapter-4/nvidia-isaac-5d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-4-nvidia-isaace-76-2b6"
+  },
+  "/physical-ai-book/docs/chapter-4/references-bea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-4-references-247-fac"
+  },
+  "/physical-ai-book/docs/chapter-5-bd1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-51-bc-025"
+  },
+  "/physical-ai-book/docs/chapter-5/llm-ros-actions-e9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-5-llm-ros-actions-7-d-3-7af"
+  },
+  "/physical-ai-book/docs/chapter-5/references-bff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-5-references-47-e-304"
+  },
+  "/physical-ai-book/docs/chapter-5/vision-language-cfa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-5-vision-language-5-e-9-4cf"
+  },
+  "/physical-ai-book/docs/chapter-5/whisper-integration-af7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-5-whisper-integrationccc-b9f"
+  },
+  "/physical-ai-book/docs/chapter-6-77f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-6473-107"
+  },
+  "/physical-ai-book/docs/chapter-6/deployment-topology-d0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-6-deployment-topology-0-ac-d45"
+  },
+  "/physical-ai-book/docs/chapter-6/references-b16": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-6-referencesdc-4-206"
+  },
+  "/physical-ai-book/docs/chapter-6/system-integration-4c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-6-system-integration-3-cc-531"
+  },
+  "/physical-ai-book/docs/chapter-6/workflow-44c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-chapter-6-workflow-4-c-4-9c5"
+  },
+  "/physical-ai-book/docs/hardware/configurations-738": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-hardware-configurations-431-5e1"
+  },
+  "/physical-ai-book/docs/hardware/jetson-guide-fa6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-hardware-jetson-guide-5-c-1-072"
+  },
+  "/physical-ai-book/docs/hardware/lab-setup-1e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-hardware-lab-setupcc-9-a31"
+  },
+  "/physical-ai-book/docs/hardware/references-37c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-hardware-references-3-e-2-e30"
+  },
+  "/physical-ai-book/docs/intro-f2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-intro-0-e-3-b7e"
+  },
+  "/physical-ai-book/docs/navigation-checklist-733": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-navigation-checklist-372-dad"
+  },
+  "/physical-ai-book/docs/summary-cross-reference-b33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-docs-summary-cross-referenceb-82-01f"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chapter-6/references",
+  "title": "Chapter 6: Autonomous Humanoid Capstone Architecture - References",
+  "description": "Academic References",
+  "source": "@site/docs/chapter-6/references.md",
+  "sourceDirName": "chapter-6",
+  "slug": "/chapter-6/references",
+  "permalink": "/physical-ai-book/docs/chapter-6/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-6/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment Topology",
+    "permalink": "/physical-ai-book/docs/chapter-6/deployment-topology"
+  },
+  "next": {
+    "title": "System Integration Overview",
+    "permalink": "/physical-ai-book/docs/chapter-6/system-integration"
+  }
+}

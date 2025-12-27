@@ -1,0 +1,24 @@
+{
+  "id": "architecture/system-view",
+  "title": "System Architecture Overview for Physical AI & Humanoid Robotics",
+  "description": "Introduction",
+  "source": "@site/docs/architecture/system-view.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/system-view",
+  "permalink": "/physical-ai-book/docs/architecture/system-view",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/architecture/system-view.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture Documentation - References",
+    "permalink": "/physical-ai-book/docs/architecture/references"
+  },
+  "next": {
+    "title": "Tool Mapping Documentation for Physical AI & Humanoid Robotics Architecture",
+    "permalink": "/physical-ai-book/docs/architecture/tool-mapping"
+  }
+}

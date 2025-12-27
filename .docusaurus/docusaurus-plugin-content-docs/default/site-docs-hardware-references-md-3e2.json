@@ -1,0 +1,24 @@
+{
+  "id": "hardware/references",
+  "title": "Hardware Documentation - References",
+  "description": "Academic References",
+  "source": "@site/docs/hardware/references.md",
+  "sourceDirName": "hardware",
+  "slug": "/hardware/references",
+  "permalink": "/physical-ai-book/docs/hardware/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/hardware/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Laboratory Infrastructure Setup for Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-book/docs/hardware/lab-setup"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Code Examples",
+    "permalink": "/physical-ai-book/docs/assets/code-examples/isaac-examples/"
+  }
+}

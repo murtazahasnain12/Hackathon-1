@@ -1,0 +1,24 @@
+{
+  "id": "chapter-6/workflow",
+  "title": "Simulation-to-Edge-to-Physical Workflow",
+  "description": "Introduction to Complete Development Lifecycle",
+  "source": "@site/docs/chapter-6/workflow.md",
+  "sourceDirName": "chapter-6",
+  "slug": "/chapter-6/workflow",
+  "permalink": "/physical-ai-book/docs/chapter-6/workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-6/workflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Integration Overview",
+    "permalink": "/physical-ai-book/docs/chapter-6/system-integration"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/physical-ai-book/docs/category/architecture"
+  }
+}

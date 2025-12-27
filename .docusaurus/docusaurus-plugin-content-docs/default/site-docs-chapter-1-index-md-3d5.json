@@ -1,0 +1,27 @@
+{
+  "id": "chapter-1/index",
+  "title": "Chapter 1: Introduction to Physical AI & Embodied Intelligence",
+  "description": "This chapter introduces the fundamental concepts of Physical AI and embodied intelligence, exploring how artificial intelligence systems can be designed to interact with and understand the physical world.",
+  "source": "@site/docs/chapter-1/index.md",
+  "sourceDirName": "chapter-1",
+  "slug": "/chapter-1/",
+  "permalink": "/physical-ai-book/docs/chapter-1/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-1/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to Physical AI & Embodied Intelligence",
+    "permalink": "/physical-ai-book/docs/category/chapter-1-introduction-to-physical-ai--embodied-intelligence"
+  },
+  "next": {
+    "title": "Layered Architecture Overview",
+    "permalink": "/physical-ai-book/docs/chapter-1/layered-architecture"
+  }
+}

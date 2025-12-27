@@ -1,0 +1,24 @@
+{
+  "id": "chapter-5/whisper-integration",
+  "title": "Whisper Integration",
+  "description": "Introduction to Whisper for Robotics",
+  "source": "@site/docs/chapter-5/whisper-integration.md",
+  "sourceDirName": "chapter-5",
+  "slug": "/chapter-5/whisper-integration",
+  "permalink": "/physical-ai-book/docs/chapter-5/whisper-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-5/whisper-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision-Language Fundamentals",
+    "permalink": "/physical-ai-book/docs/chapter-5/vision-language"
+  },
+  "next": {
+    "title": "Chapter 6: Autonomous Humanoid Capstone Architecture",
+    "permalink": "/physical-ai-book/docs/category/chapter-6-autonomous-humanoid-capstone-architecture"
+  }
+}

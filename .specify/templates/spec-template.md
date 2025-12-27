@@ -1,9 +1,19 @@
 # Feature Specification: [FEATURE NAME]
 
-**Feature Branch**: `[###-feature-name]`  
-**Created**: [DATE]  
-**Status**: Draft  
+**Feature Branch**: `[###-feature-name]`
+**Created**: [DATE]
+**Status**: Draft
 **Input**: User description: "$ARGUMENTS"
+
+## Constitution Alignment
+
+This specification aligns with the project constitution principles:
+- Technical Accuracy Validation: All requirements will be validated through authoritative sources
+- CLI Interface Priority: MCP tools and CLI commands will be prioritized for implementation
+- PHR Requirement: Prompt History Records will be created for this feature implementation
+- Architectural Decision Documentation: Architecturally significant decisions will be documented as ADRs
+- Human Judgment Integration: User clarification will be sought for ambiguous requirements
+- Implementation Guidelines: Smallest viable diff approach will be followed with proper code referencing
 
 ## User Scenarios & Testing *(mandatory)*
 

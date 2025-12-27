@@ -1,0 +1,24 @@
+{
+  "id": "chapter-6/system-integration",
+  "title": "System Integration Overview",
+  "description": "Introduction to Complete System Architecture",
+  "source": "@site/docs/chapter-6/system-integration.md",
+  "sourceDirName": "chapter-6",
+  "slug": "/chapter-6/system-integration",
+  "permalink": "/physical-ai-book/docs/chapter-6/system-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-6/system-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Autonomous Humanoid Capstone Architecture - References",
+    "permalink": "/physical-ai-book/docs/chapter-6/references"
+  },
+  "next": {
+    "title": "Simulation-to-Edge-to-Physical Workflow",
+    "permalink": "/physical-ai-book/docs/chapter-6/workflow"
+  }
+}

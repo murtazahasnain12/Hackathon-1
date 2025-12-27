@@ -1,0 +1,24 @@
+{
+  "id": "chapter-5/vision-language",
+  "title": "Vision-Language Fundamentals",
+  "description": "Introduction to Vision-Language Integration",
+  "source": "@site/docs/chapter-5/vision-language.md",
+  "sourceDirName": "chapter-5",
+  "slug": "/chapter-5/vision-language",
+  "permalink": "/physical-ai-book/docs/chapter-5/vision-language",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-5/vision-language.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Vision-Language-Action Pipelines - References",
+    "permalink": "/physical-ai-book/docs/chapter-5/references"
+  },
+  "next": {
+    "title": "Whisper Integration",
+    "permalink": "/physical-ai-book/docs/chapter-5/whisper-integration"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-3/index",
+  "title": "Chapter 3: Digital Twins & Physics Simulation",
+  "description": "This chapter explores digital twins and physics simulation techniques for humanoid robotics, covering how simulation environments enable safe development and testing of Physical AI systems before deployment to physical robots.",
+  "source": "@site/docs/chapter-3/index.md",
+  "sourceDirName": "chapter-3",
+  "slug": "/chapter-3/",
+  "permalink": "/physical-ai-book/docs/chapter-3/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-3/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Digital Twins & Physics Simulation",
+    "permalink": "/physical-ai-book/docs/category/chapter-3-digital-twins--physics-simulation"
+  },
+  "next": {
+    "title": "Digital Twins with Gazebo/Unity",
+    "permalink": "/physical-ai-book/docs/chapter-3/digital-twins"
+  }
+}

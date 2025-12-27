@@ -1,0 +1,24 @@
+{
+  "id": "chapter-4/nvidia-isaac",
+  "title": "NVIDIA Isaac Integration",
+  "description": "Introduction to NVIDIA Isaac for Robotics",
+  "source": "@site/docs/chapter-4/nvidia-isaac.md",
+  "sourceDirName": "chapter-4",
+  "slug": "/chapter-4/nvidia-isaac",
+  "permalink": "/physical-ai-book/docs/chapter-4/nvidia-isaac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-4/nvidia-isaac.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI Perception Fundamentals",
+    "permalink": "/physical-ai-book/docs/chapter-4/ai-perception"
+  },
+  "next": {
+    "title": "References - Chapter 4: AI Perception & Learning with NVIDIA Isaac",
+    "permalink": "/physical-ai-book/docs/chapter-4/references"
+  }
+}

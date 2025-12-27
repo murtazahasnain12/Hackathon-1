@@ -1,0 +1,27 @@
+{
+  "id": "index",
+  "title": "Physical AI & Humanoid Robotics",
+  "description": "Welcome to the Complete Guide",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/physical-ai-book/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Physical AI & Humanoid Robotics",
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Code Examples",
+    "permalink": "/physical-ai-book/docs/assets/code-examples/ros2-examples/"
+  },
+  "next": {
+    "title": "Navigation Validation Checklist",
+    "permalink": "/physical-ai-book/docs/navigation-checklist"
+  }
+}

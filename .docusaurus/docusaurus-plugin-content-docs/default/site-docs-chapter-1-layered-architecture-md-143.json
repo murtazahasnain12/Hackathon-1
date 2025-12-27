@@ -1,0 +1,24 @@
+{
+  "id": "chapter-1/layered-architecture",
+  "title": "Layered Architecture Overview",
+  "description": "Introduction to Layered Architecture",
+  "source": "@site/docs/chapter-1/layered-architecture.md",
+  "sourceDirName": "chapter-1",
+  "slug": "/chapter-1/layered-architecture",
+  "permalink": "/physical-ai-book/docs/chapter-1/layered-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-1/layered-architecture.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to Physical AI & Embodied Intelligence",
+    "permalink": "/physical-ai-book/docs/chapter-1/"
+  },
+  "next": {
+    "title": "Physical AI Fundamentals",
+    "permalink": "/physical-ai-book/docs/chapter-1/physical-ai-intro"
+  }
+}

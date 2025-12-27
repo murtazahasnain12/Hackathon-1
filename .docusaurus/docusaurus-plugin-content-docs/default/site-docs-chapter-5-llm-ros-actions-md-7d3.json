@@ -1,0 +1,24 @@
+{
+  "id": "chapter-5/llm-ros-actions",
+  "title": "LLM-ROS Integration for Action Execution",
+  "description": "Introduction to LLM-ROS Integration",
+  "source": "@site/docs/chapter-5/llm-ros-actions.md",
+  "sourceDirName": "chapter-5",
+  "slug": "/chapter-5/llm-ros-actions",
+  "permalink": "/physical-ai-book/docs/chapter-5/llm-ros-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-5/llm-ros-actions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Vision-Language-Action Pipelines",
+    "permalink": "/physical-ai-book/docs/chapter-5/"
+  },
+  "next": {
+    "title": "Chapter 5: Vision-Language-Action Pipelines - References",
+    "permalink": "/physical-ai-book/docs/chapter-5/references"
+  }
+}

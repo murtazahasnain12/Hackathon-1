@@ -1,0 +1,24 @@
+{
+  "id": "architecture/tool-mapping",
+  "title": "Tool Mapping Documentation for Physical AI & Humanoid Robotics Architecture",
+  "description": "Introduction to Tool Mapping",
+  "source": "@site/docs/architecture/tool-mapping.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/tool-mapping",
+  "permalink": "/physical-ai-book/docs/architecture/tool-mapping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/architecture/tool-mapping.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Architecture Overview for Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-book/docs/architecture/system-view"
+  },
+  "next": {
+    "title": "Hardware & Infrastructure",
+    "permalink": "/physical-ai-book/docs/category/hardware--infrastructure"
+  }
+}

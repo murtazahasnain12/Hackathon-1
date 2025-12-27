@@ -8,6 +8,14 @@ description: "Task list template for feature implementation"
 **Input**: Design documents from `/specs/[###-feature-name]/`
 **Prerequisites**: plan.md (required), spec.md (required for user stories), research.md, data-model.md, contracts/
 
+**Constitution Alignment**: All tasks must follow the project constitution principles:
+- Technical Accuracy Validation: All implementations must be validated through authoritative sources
+- CLI Interface Priority: MCP tools and CLI commands must be prioritized for implementation
+- PHR Requirement: Prompt History Records must be created for this feature implementation
+- Architectural Decision Documentation: Architecturally significant decisions must be documented as ADRs
+- Human Judgment Integration: User clarification must be sought for ambiguous requirements
+- Implementation Guidelines: Smallest viable diff approach must be followed with proper code referencing
+
 **Tests**: The examples below include test tasks. Tests are OPTIONAL - only include them if explicitly requested in the feature specification.
 
 **Organization**: Tasks are grouped by user story to enable independent implementation and testing of each story.

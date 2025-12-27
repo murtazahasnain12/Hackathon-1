@@ -1,0 +1,24 @@
+{
+  "id": "architecture/deployment",
+  "title": "Deployment Architecture for Physical AI & Humanoid Robotics",
+  "description": "Introduction to Deployment Architecture",
+  "source": "@site/docs/architecture/deployment.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/deployment",
+  "permalink": "/physical-ai-book/docs/architecture/deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/architecture/deployment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/physical-ai-book/docs/category/architecture"
+  },
+  "next": {
+    "title": "Layered Approach Documentation for Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-book/docs/architecture/layered-approach"
+  }
+}

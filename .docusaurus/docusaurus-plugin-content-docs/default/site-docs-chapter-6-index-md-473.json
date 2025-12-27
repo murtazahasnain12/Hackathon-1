@@ -1,0 +1,27 @@
+{
+  "id": "chapter-6/index",
+  "title": "Chapter 6: Autonomous Humanoid Capstone Architecture",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter-6/index.md",
+  "sourceDirName": "chapter-6",
+  "slug": "/chapter-6/",
+  "permalink": "/physical-ai-book/docs/chapter-6/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-6/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Autonomous Humanoid Capstone Architecture",
+    "permalink": "/physical-ai-book/docs/category/chapter-6-autonomous-humanoid-capstone-architecture"
+  },
+  "next": {
+    "title": "Deployment Topology",
+    "permalink": "/physical-ai-book/docs/chapter-6/deployment-topology"
+  }
+}

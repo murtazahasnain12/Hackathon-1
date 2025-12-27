@@ -1,0 +1,24 @@
+{
+  "id": "chapter-4/references",
+  "title": "References - Chapter 4: AI Perception & Learning with NVIDIA Isaac",
+  "description": "Academic Sources",
+  "source": "@site/docs/chapter-4/references.md",
+  "sourceDirName": "chapter-4",
+  "slug": "/chapter-4/references",
+  "permalink": "/physical-ai-book/docs/chapter-4/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-4/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Integration",
+    "permalink": "/physical-ai-book/docs/chapter-4/nvidia-isaac"
+  },
+  "next": {
+    "title": "Chapter 5: Vision-Language-Action Pipelines",
+    "permalink": "/physical-ai-book/docs/category/chapter-5-vision-language-action-pipelines"
+  }
+}

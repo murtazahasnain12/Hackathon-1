@@ -1,0 +1,24 @@
+{
+  "id": "chapter-3/digital-twins",
+  "title": "Digital Twins with Gazebo/Unity",
+  "description": "Introduction to Digital Twins in Robotics",
+  "source": "@site/docs/chapter-3/digital-twins.md",
+  "sourceDirName": "chapter-3",
+  "slug": "/chapter-3/digital-twins",
+  "permalink": "/physical-ai-book/docs/chapter-3/digital-twins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-3/digital-twins.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Digital Twins & Physics Simulation",
+    "permalink": "/physical-ai-book/docs/chapter-3/"
+  },
+  "next": {
+    "title": "Physics Simulation Fundamentals",
+    "permalink": "/physical-ai-book/docs/chapter-3/physics-simulation"
+  }
+}

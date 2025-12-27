@@ -1,0 +1,24 @@
+{
+  "id": "chapter-4/ai-perception",
+  "title": "AI Perception Fundamentals",
+  "description": "Introduction to AI-Based Perception",
+  "source": "@site/docs/chapter-4/ai-perception.md",
+  "sourceDirName": "chapter-4",
+  "slug": "/chapter-4/ai-perception",
+  "permalink": "/physical-ai-book/docs/chapter-4/ai-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-4/ai-perception.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: AI Perception & Learning with NVIDIA Isaac",
+    "permalink": "/physical-ai-book/docs/chapter-4/"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Integration",
+    "permalink": "/physical-ai-book/docs/chapter-4/nvidia-isaac"
+  }
+}

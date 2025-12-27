@@ -31,7 +31,12 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- Technical Accuracy Validation: Verify all technical claims are backed by authoritative sources
+- CLI Interface Priority: Ensure MCP tools and CLI commands are prioritized for information gathering
+- PHR Requirement: Confirm Prompt History Records will be created for this feature implementation
+- Architectural Decision Documentation: Identify any architecturally significant decisions that require ADR documentation
+- Human Judgment Integration: Plan for user clarification on ambiguous requirements
+- Implementation Guidelines: Confirm smallest viable diff approach and proper code referencing
 
 ## Project Structure
 

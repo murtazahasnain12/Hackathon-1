@@ -1,55 +1,61 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report:
+- Version change: 1.0.0 → 1.1.0
+- Modified principles:
+  - Principle 1: Authoritative Source Mandate → Technical Accuracy Validation
+  - Principle 2: Execution Flow → CLI Interface Priority
+  - Principle 3: Knowledge Capture → PHR Requirement
+  - Principle 4: ADR Suggestions → Architectural Decision Documentation
+  - Principle 5: Human as Tool Strategy → Human Judgment Integration
+  - Principle 6: Default Policies → Implementation Guidelines
+- Added sections: Additional Constraints, Development Workflow
+- Removed sections: None
+- Templates requiring updates:
+  - .specify/templates/plan-template.md ✅ updated
+  - .specify/templates/spec-template.md ✅ updated
+  - .specify/templates/tasks-template.md ✅ updated
+- Follow-up TODOs: None
+-->
+
+# AI / Spec-Driven Book Creation Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### Technical Accuracy Validation
+Technical accuracy must be validated through authoritative and primary sources. All factual and technical claims must be verifiable and source-backed with a minimum of 40% primary or peer-reviewed sources.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### CLI Interface Priority
+Treat MCP servers as first-class tools for discovery, verification, execution, and state capture. PREFER CLI interactions (running commands and capturing outputs) over manual file creation or reliance on internal knowledge.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### PHR Requirement
+Record every user input verbatim in a Prompt History Record (PHR) after every user message. Do not truncate; preserve full multiline input. PHRs must be created for implementation work, planning, debugging, spec/task creation, and multi-step workflows.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### Architectural Decision Documentation
+When architecturally significant decisions are detected (long-term consequences, multiple viable options, cross-cutting impact), suggest documenting with: "📋 Architectural decision detected: <brief> — Document reasoning and tradeoffs? Run `/sp.adr <decision-title>`"
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### Human Judgment Integration
+Treat the user as a specialized tool for clarification and decision-making when encountering ambiguous requirements, unforeseen dependencies, architectural uncertainty, or completion checkpoints.
 
-### [PRINCIPLE_6_NAME]
+### Implementation Guidelines
+Follow core development policies: clarify and plan first, do not invent APIs/data/contracts without clarification, never hardcode secrets, prefer smallest viable diffs, cite existing code with references, and keep reasoning private while outputting only decisions and justifications.
 
+## Additional Constraints
 
-[PRINCIPLE__DESCRIPTION]
+- Code standards: All code must be technically accurate, spec-compliant, and meet Docusaurus best practices
+- Citation format: APA style with traceable external references
+- Writing standards: Flesch-Kincaid grade 10-12 readability, modular structure for static site generation
+- Technical constraints: Output format must be Markdown compatible with Docusaurus, version-controlled via GitHub, deployed using GitHub Pages
+- Quality standards: Zero plagiarism tolerance, technical accuracy validated through authoritative sources
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+## Development Workflow
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+- Use Spec-Driven Development (SDD) methodology with clear separation between business understanding and technical implementation
+- Follow the execution contract: confirm surface and success criteria, list constraints, produce artifact with acceptance checks, add follow-ups and risks, create PHR, surface ADR suggestions
+- Maintain consistency across all chapters and sections with reproducible concepts and examples
+- Implement ethical AI usage and transparent authorship practices
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+All development must strictly follow the Spec-Driven Development methodology and the principles outlined in this constitution. Amendments require documentation in the form of Architectural Decision Records (ADRs) with proper approval and migration planning. All PRs and reviews must verify compliance with these principles, and complexity must be justified with clear rationale.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.1.0 | **Ratified**: 2025-12-27 | **Last Amended**: 2025-12-27

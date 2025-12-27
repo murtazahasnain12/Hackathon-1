@@ -1,0 +1,24 @@
+{
+  "id": "chapter-3/references",
+  "title": "References - Chapter 3: Digital Twins & Physics Simulation",
+  "description": "Academic Sources",
+  "source": "@site/docs/chapter-3/references.md",
+  "sourceDirName": "chapter-3",
+  "slug": "/chapter-3/references",
+  "permalink": "/physical-ai-book/docs/chapter-3/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-book/tree/main/docs/chapter-3/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics Simulation Fundamentals",
+    "permalink": "/physical-ai-book/docs/chapter-3/physics-simulation"
+  },
+  "next": {
+    "title": "Chapter 4: AI Perception & Learning with NVIDIA Isaac",
+    "permalink": "/physical-ai-book/docs/category/chapter-4-ai-perception--learning-with-nvidia-isaac"
+  }
+}
